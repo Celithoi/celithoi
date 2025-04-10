@@ -1,26 +1,54 @@
+<h1 align="center">👨‍💻 Marcelo Henrique (Celithoi)</h1>
+<p align="center">🚀 Apaixonado por tecnologia, backend, automações e tudo que envolve Linux & Desenvolvimento</p>
 
-## Bem-vindo(a) ao perfil do marcelo cardoso, vulgo celithoi 😁
+---
 
- <div>
-  <a href="https://github.com/Celithoi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celithoi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celithoi&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
+## 🧠 Sobre mim
 
-<div> 
-  <a href="https://www.youtube.com/mhrcardoso" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/celithoi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/celithoi#2911" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: mhrcardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mhrcardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+- 🎓 Engenheiro da Computação
+- 🛠️ 14+ anos de experiência em suporte técnico e soluções para automação industrial
+- 🌍 Focado em evoluir para o mercado **internacional**
+- 🐧 Entusiasta de Linux, VMs, redes, pfSense e sistemas críticos
+- 💡 Aprendendo intensamente **React, Node.js, API REST e TailwindCSS**
+- 🎯 Objetivo: me tornar um profissional **acima da média** e referência técnica
 
-</div>
+---
+
+## 💼 Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Celithoi&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
+
+---
+
+## 🐍 Snake Contribution Graph
+
+![snake gif](https://github.com/Celithoi/Celithoi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📬 Contato
+
+📧 Email: **[adicione seu email aqui se quiser]**  
+💼 LinkedIn: [linkedin.com/in/mhrcardoso](https://www.linkedin.com/in/mhrcardoso/)
+
+---
+
+> *“Aprender, criar, evoluir. Um comando de cada vez.”* – Marcelo Henrique
+
+
