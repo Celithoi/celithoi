@@ -43,7 +43,7 @@
 
 ## 📫 Contato
 
-📧 Email: **[adicione seu email aqui se quiser]**  
+📧 Email: **[mhrcardoso@gmail.com]**  
 💼 LinkedIn: [linkedin.com/in/mhrcardoso](https://www.linkedin.com/in/mhrcardoso/)
 
 ---
